@@ -1,2 +1,2 @@
 # Auxillia-Website
-The files for Auxillia's website files
+The repository for Auxillia's website files

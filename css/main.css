@@ -1,0 +1,9 @@
+.sidebar{
+	Width:15%;
+	Height:100%;
+}
+
+#sidebar.h5{
+	 text-decoration:underline;
+	 text-decoration:strong; 
+}

@@ -1,28 +1,28 @@
-.sidebar{
-	Width:12.5%;
-	Height:100%;
-	text-align:center;
-	padding-top:20%;
-	padding-bottom:20%;
-	background-color:white;
-	float:left;
+.sidebar {
+    Width: 12.5%;
+    Height: 100%;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-color: white;
+    float: left;
 }
 
-.sidebar > h4 > a{
-	text-decoration:none;
-	color:black;
+    .sidebar > h4 > a {
+        text-decoration: none;
+        color: black;
+    }
+
+.sliders > .leftSlider {
+    width: 43.75%;
+    height: 100%;
+    background-color: white;
+    float: left;
 }
 
-.sliders > .leftSlider{
-	width:43.75%;
-	height:100%;
-	background-color:white;
-	float:left;
-}
-
-.sliders > .rightSlider{
-	width:43.75%;
-	height:100%;
-	background-color:white;
-	float:left;
+.sliders > .rightSlider {
+    width: 43.75%;
+    height: 100%;
+    background-color: white;
+    float: left;
 }
